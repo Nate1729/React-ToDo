@@ -1,0 +1,8 @@
+.container {
+  margin-left: 20%;
+  margin-right: 20%;
+  border: 0.25rem solid #8fbcbb;
+  padding: 2rem;
+  border-radius: 1rem;
+  background-color: #2e3440;
+}

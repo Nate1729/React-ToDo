@@ -1,0 +1,11 @@
+.container {
+  width: auto;
+  background-color: #5e81ac;
+  color: #D8dee9;
+  margin: 0.5rem;
+  border: 2px solid #d8dee9;
+  border-radius: 1rem;
+  text-align: center;
+  filter: drop-shadow(0.5rem, 0.5rem, 0.25rem, white);
+}
+
