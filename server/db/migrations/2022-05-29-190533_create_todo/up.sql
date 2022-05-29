@@ -1,0 +1,6 @@
+-- Your SQL goes here
+CREATE TABLE todo_item (
+  id INTEGER NOT NULL PRIMARY KEY,
+  body VARCHAR NOT NULL,
+  deleted BOOLEAN NOT NULL DEFAULT 0
+)
